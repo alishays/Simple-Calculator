@@ -27,6 +27,7 @@ namespace AlishaHuang_InClass1
         private void Calculator_Load(object sender, EventArgs e)
         {
             txtDisplayResult.Text = "";
+            BackColor = System.Drawing.Color.LightGreen;
         }
 
         //Display number when the user clicks on the button of numbers.
@@ -331,6 +332,19 @@ namespace AlishaHuang_InClass1
                 input = "";
             }
 
+        }
+
+        /*Add feature 1 change background colour*/
+        private void btnChangeColour_Click(object sender, EventArgs e)
+        {
+            if (this.BackColor == Color.LightGreen)
+            {
+                this.BackColor = Color.MistyRose;
+            }
+            else
+            {
+                this.BackColor = Color.LightGreen;
+            }
         }
     }
 }

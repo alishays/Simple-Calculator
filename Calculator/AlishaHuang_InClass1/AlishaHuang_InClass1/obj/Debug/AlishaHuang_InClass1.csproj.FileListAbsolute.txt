@@ -8,3 +8,13 @@ C:\Users\Jeremy Chen\Desktop\Alisha\Programming Concepts 2\InClass\AlishaHuang_I
 C:\Users\Jeremy Chen\Desktop\Alisha\Programming Concepts 2\InClass\AlishaHuang_InClass1\AlishaHuang_InClass1\obj\Debug\AlishaHuang_InClass1.csproj.CoreCompileInputs.cache
 C:\Users\Jeremy Chen\Desktop\Alisha\Programming Concepts 2\InClass\AlishaHuang_InClass1\AlishaHuang_InClass1\obj\Debug\AlishaHuang_InClass1.exe
 C:\Users\Jeremy Chen\Desktop\Alisha\Programming Concepts 2\InClass\AlishaHuang_InClass1\AlishaHuang_InClass1\obj\Debug\AlishaHuang_InClass1.pdb
+C:\Users\Jeremy Chen\Documents\GitHub\Simple-Calculator\Calculator\AlishaHuang_InClass1\AlishaHuang_InClass1\bin\Debug\AlishaHuang_InClass1.exe.config
+C:\Users\Jeremy Chen\Documents\GitHub\Simple-Calculator\Calculator\AlishaHuang_InClass1\AlishaHuang_InClass1\bin\Debug\AlishaHuang_InClass1.exe
+C:\Users\Jeremy Chen\Documents\GitHub\Simple-Calculator\Calculator\AlishaHuang_InClass1\AlishaHuang_InClass1\bin\Debug\AlishaHuang_InClass1.pdb
+C:\Users\Jeremy Chen\Documents\GitHub\Simple-Calculator\Calculator\AlishaHuang_InClass1\AlishaHuang_InClass1\obj\Debug\AlishaHuang_InClass1.csprojAssemblyReference.cache
+C:\Users\Jeremy Chen\Documents\GitHub\Simple-Calculator\Calculator\AlishaHuang_InClass1\AlishaHuang_InClass1\obj\Debug\AlishaHuang_InClass1.Calculator.resources
+C:\Users\Jeremy Chen\Documents\GitHub\Simple-Calculator\Calculator\AlishaHuang_InClass1\AlishaHuang_InClass1\obj\Debug\AlishaHuang_InClass1.Properties.Resources.resources
+C:\Users\Jeremy Chen\Documents\GitHub\Simple-Calculator\Calculator\AlishaHuang_InClass1\AlishaHuang_InClass1\obj\Debug\AlishaHuang_InClass1.csproj.GenerateResource.cache
+C:\Users\Jeremy Chen\Documents\GitHub\Simple-Calculator\Calculator\AlishaHuang_InClass1\AlishaHuang_InClass1\obj\Debug\AlishaHuang_InClass1.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Chen\Documents\GitHub\Simple-Calculator\Calculator\AlishaHuang_InClass1\AlishaHuang_InClass1\obj\Debug\AlishaHuang_InClass1.exe
+C:\Users\Jeremy Chen\Documents\GitHub\Simple-Calculator\Calculator\AlishaHuang_InClass1\AlishaHuang_InClass1\obj\Debug\AlishaHuang_InClass1.pdb
