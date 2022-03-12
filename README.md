@@ -12,5 +12,8 @@ Instructions:
 6. Then, go into "bin" folder, and find "Debug" folder.
 7. In the "Debug" folder, open the "AlishaHuang_InClass1.Application".
 8. The calculator application is ready to use.
+9. To run the code, you can simply click on the "Start" button on the Visual Studio pannel to start running the code.
+10. ![image](https://user-images.githubusercontent.com/90707437/158001106-08625343-b8e9-4542-bf71-a700b4409711.png)
+
 
 
