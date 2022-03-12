@@ -2,6 +2,7 @@
  A simple calculator
 
 This is a simple calculator source code built by C#. To build and run this source code, you can get a simple calculator to help you calculate.
+This simple calculator has plus, minus, multiplication, and division functions, so people can use it to calculate simple math or numbers.
 
 Instructions:
 
@@ -16,6 +17,7 @@ Instructions:
 9. To run the code, you can simply click on the "Start" button on the Visual Studio pannel to start running the code.
 ![image](https://user-images.githubusercontent.com/90707437/158001106-08625343-b8e9-4542-bf71-a700b4409711.png)
 
+Note: This source code is for C# Windows From Application (.NET Frame), so it only can be install and run on Windows Operating System.
 
 
 
