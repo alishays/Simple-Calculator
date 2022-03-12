@@ -47,6 +47,7 @@
             this.buttonSubtract = new System.Windows.Forms.Button();
             this.buttonAdd = new System.Windows.Forms.Button();
             this.expression = new System.Windows.Forms.Label();
+            this.btnChangeColour = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtDisplayResult
@@ -254,11 +255,22 @@
             this.expression.Size = new System.Drawing.Size(0, 20);
             this.expression.TabIndex = 18;
             // 
+            // btnChangeColour
+            // 
+            this.btnChangeColour.Location = new System.Drawing.Point(243, 25);
+            this.btnChangeColour.Name = "btnChangeColour";
+            this.btnChangeColour.Size = new System.Drawing.Size(112, 41);
+            this.btnChangeColour.TabIndex = 19;
+            this.btnChangeColour.Text = "Change Background Colour";
+            this.btnChangeColour.UseVisualStyleBackColor = true;
+            this.btnChangeColour.Click += new System.EventHandler(this.btnChangeColour_Click);
+            // 
             // Calculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(409, 515);
+            this.Controls.Add(this.btnChangeColour);
             this.Controls.Add(this.expression);
             this.Controls.Add(this.buttonEqual);
             this.Controls.Add(this.buttonDevide);
@@ -307,6 +319,7 @@
         private System.Windows.Forms.Button buttonSubtract;
         private System.Windows.Forms.Button buttonAdd;
         private System.Windows.Forms.Label expression;
+        private System.Windows.Forms.Button btnChangeColour;
     }
 }
 
