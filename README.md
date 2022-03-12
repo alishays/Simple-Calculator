@@ -23,7 +23,7 @@ Method 2:
 3. Copy and paste the repository link "https://github.com/alishays/Simple-Calculator" into the "Repository location".
 4. Click the "Clone" button.
 5. The Visual Studio will automatically clone the entire files from the repository into your local device.
-6. Then, in the explorer folder which is on the left side to open the "AlishaHuang_InClass1.sln" solution file. ![image](https://user-images.githubusercontent.com/90707437/158001709-a14c488d-edd1-487f-ad1f-fc8f70c38c40.png)
+6. Then, in the explorer folder which is on the left side to open the "AlishaHuang_InClass1.sln" solution file. ![image](https://user-images.githubusercontent.com/90707437/158001709-a14c488d-edd1-487f-ad1f-fc8f70c38c40.png)  ![image](https://user-images.githubusercontent.com/90707437/158001759-fdebd9f1-b69f-4c9e-87ac-69055abd5d47.png)
 7. Do the method 1 step 4-9.
 
 
