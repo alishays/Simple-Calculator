@@ -1,9 +1,8 @@
 # Simple-Calculator
- A simple calculator by Alisha Huang
+ A simple calculator
 
-This is a simple calculator project, and it was using C# to build the entire project. 
-To build and run this source code, you can get a simple calculator to help you calculate. 
-Also, this simple calculator has plus, minus, multiplication, and division functions, so people can use it to calculate simple math or numbers. 
+This is a simple calculator source code built by C#. To build and run this source code, you can get a simple calculator to help you calculate.
+
 Instructions:
 
 1. Download the entire zip folder of source code from GitHub.
