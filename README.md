@@ -6,7 +6,7 @@ This is a simple calculator source code built by C#. To build and run this sourc
 Instructions:
 
 1. Download the entire zip folder of source code from GitHub.
-2. Open Visual Studio.
+2. Open Visual Studio, if you do not have Visual Studio, please download and install here: https://visualstudio.microsoft.com/free-developer-offers/
 3. Select "Open Project/Solution", and open the solution file "AlishaHuang_InClass1.sln".
 4. Then, click on "Build Solution" under Build tap.
 5. Go into the "AlishaHuang_InClass1" folder which is on the same location with the "AlishaHuang_InClass.sln" solution.
